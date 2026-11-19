@@ -26,3 +26,11 @@ Sistemi canlı olarak deneyimlemek ve incelemek için:
 
 ## 📬 İletişim
 Proje hakkında detaylı bilgi almak, geri bildirimde bulunmak veya iş birliği yapmak için benimle iletişime geçebilirsiniz.
+<img width="1867" height="918" alt="image" src="https://github.com/user-attachments/assets/e24abbea-1d22-4bed-bb1c-f5a5baac2bcc" />
+<img width="1874" height="917" alt="image" src="https://github.com/user-attachments/assets/dcad51ad-7a10-4579-8040-b9ef9337b6b5" />
+<img width="1862" height="923" alt="image" src="https://github.com/user-attachments/assets/ac2a1c4d-c5ba-4443-9d10-0ca7304f3ec7" />
+<img width="1866" height="926" alt="image" src="https://github.com/user-attachments/assets/feed1959-0fd5-494d-8232-9e567a9b4c21" />
+<img width="1864" height="928" alt="image" src="https://github.com/user-attachments/assets/3cd58b91-e2c5-4768-be03-50ba37408e6a" />
+
+
+
