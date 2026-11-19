@@ -20,7 +20,7 @@ Karmaşık güvenlik verilerini sade, hızlı ve aksiyon alınabilir bir arayüz
 
 ## 🌐 Canlı Platform
 Sistemi canlı olarak deneyimlemek ve incelemek için:  
-👉 **[Nexus CTI Canlı Demo](https://nexus-cti-siber-tehdit-i-stihbarat-paneli-227544454228.europe-west1.run.app)**
+👉 **[Nexus CTI Canlı Demo](https://nexus-cti-siber-tehdit-i-stihbarat-paneli.ai.studio)**
 
 ---
 
